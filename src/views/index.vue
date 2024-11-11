@@ -1,5 +1,5 @@
 <template>
-  <div>首页cheshi</div>
+  <div>首页测试</div>
 </template>
 
 <script setup lang="ts">
