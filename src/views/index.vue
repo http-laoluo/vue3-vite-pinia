@@ -1,5 +1,5 @@
 <template>
-  <div>首页--23：38 文综</div>
+  <div>首页--23：38 0000000</div>
 </template>
 
 <script setup lang="ts">
